@@ -1,7 +1,10 @@
-Open *demo.html* to see a list of all the glyphs in your font along with their codes/ligatures.
+Projeto Feito com estudos da faculdade para a listagem e inserção de pontos onde pessoas sofreram algum tipo de crime.
 
-To use the generated font in desktop programs, you can install the TTF font. In order to copy the character associated with each icon, refer to the text box at the bottom right corner of each glyph in demo.html. The character inside this text box may be invisible; but it can still be copied. See this guide for more info: https://icomoon.io/#docs/local-fonts
+Funciona da seguinte forma:
 
-You won't need any of the files located under the *demo-files* directory when including the generated font in your own projects.
+O site possui uma API do google do mapa de lorena/SP.
 
-You can import *selection.json* back to the IcoMoon app using the *Import Icons* button (or via Main Menu → Manage Projects) to retrieve your icon selection.
+1- Usuario sofreu um assalto no centro da cidade.
+2- Usuario após isso entra no site, se cadastra e insere o local onde sofreu esse assalto.
+3- o site coleta esses dados, pega o endereço e insere diretamente no mapa.
+4- O ponto marcado pelo usuario fica aparente no site , passando informações para quem quiser saber os locais mais perigosos e com costumes de crime da cidade.
